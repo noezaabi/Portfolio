@@ -19,30 +19,30 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        Having recently earned my bachelor's degree in{" "}
+        <span className="font-medium">physics</span> from EPFL, I've chosen to
+        specialize my master's studies in the captivating domain of Quantum
+        Computing. Currently, I am diving deep into the fields of{" "}
+        <span className="font-medium">machine learning and AI</span>, fueled by
+        the innovative environment of{" "}
+        <span className="italic">San Francisco</span>. In addition to my
+        academic endeavors, I have hands-on experience in{" "}
+        <span className="font-medium">web and mobile development</span>. When
+        I'm not in the classroom, you'll likely find me working on intriguing
+        development projects or competing in hackathons. is the problem-solving
+        aspect. My ultimate career goal is to combine these diverse skill sets
+        to forge a path in <span className="font-medium">entrepreneurship</span>
+        .
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        On a personal note, I'm highly committed to maintaining an{" "}
+        <span className="font-medium">active lifestyle</span> and engage in
+        sports nearly every day. As I step into this exciting new phase of my
+        academic and professional development, I look forward to the array of
+        opportunities to make{" "}
+        <span className="font-medium">meaningful contributions</span> to the
+        tech landscape.
       </p>
     </motion.section>
   );
